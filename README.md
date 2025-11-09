@@ -54,5 +54,5 @@ Press **Esc** to exit the window.
 
 ---
 
-## 👩‍💻 Author
+## Author
 Layan Barakat — University of Birmingham Dubai
